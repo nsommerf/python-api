@@ -1,0 +1,4 @@
+Three observations from WeatherPy
+1. There seems to be a definite correlation between Max Temperature and Latitude.  The farther you get from 0, the colder it gets.
+2. I do not see any clear correlation beween cloud percent and Latitude.
+3. Wind speed seems pretty consistent accross latitude.  Most seems to be within a certain range with few higher outliers. 
