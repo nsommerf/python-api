@@ -1,4 +1,4 @@
-# python-api-challenge
+# python-api
 Homework 6 Python API
 
 Background
